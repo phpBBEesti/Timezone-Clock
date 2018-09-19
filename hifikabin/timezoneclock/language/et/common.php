@@ -1,5 +1,6 @@
 <?php
 /**
+* Estonian translation by phpBBestonia.eu <https://www.phpbbestonia.eu>
 *
 * @package phpBB Extension - Timezone Clock
 * @copyright (c) 2015 HiFiKabin
@@ -39,10 +40,10 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 
-   'BERLIN'             => 'Berlin',
+   'BERLIN'             => 'Berliin',
    'LONDON'             => 'London',
    'CANBERRA'           => 'Canberra',
-   'MOSCOW'             => 'Moscow',
+   'MOSCOW'             => 'Moskva',
    'TOKYO'              => 'Tokyo',
    'WASHINGTON'         => 'Washington DC',
 
